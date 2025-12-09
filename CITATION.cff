@@ -1,0 +1,16 @@
+
+### 2. CITATION.cff (copy-paste — GitHub auto-parses this)
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Botros"
+    given-names: "Sherif"
+    orcid: "https://orcid.org/0009-0005-XXXX-XXXX"  # add yours if you have one
+title: "Quaternion Sentinel Architecture (QSA): A 12-Layer Framework for Aligned, Scalable AGI"
+version: 1.0.0
+date-released: 2025-12-09
+doi: 10.48550/arXiv.25xx.xxxxx
+url: "https://github.com/sherifbotros/qsa-agi"
+license: CC-BY-4.0
