@@ -14,3 +14,18 @@
 ```bash
 pip install -r requirements.txt
 python src/qsa.py "Design a harmless, creative AGI agent"
+
+
+### Citation
+```bibtex
+@article{botros2025qsa,
+  author        = {Botros, Sherif},
+  title         = {Quaternion Sentinel Architecture (QSA): A 12-Layer Framework for Aligned, Scalable AGI},
+  year          = {2025},
+  month         = dec,
+  archivePrefix = {arXiv},
+  eprint        = {2512.xxxxx},        <!-- ← replace with real ID when live -->
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2512.xxxxx},
+  note          = {Code: https://github.com/AlphaProMega/qsa-agi}
+}
