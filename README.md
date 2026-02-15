@@ -1,3 +1,7 @@
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 # Quaternion Sentinel Architecture (QSA)  
 **A 12-Layer Framework for Aligned, Scalable AGI**  
 [![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/25xx.xxxxx) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
