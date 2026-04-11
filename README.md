@@ -1,6 +1,9 @@
 This is a Legacy repository, new updates are at
 https://github.com/Eternally-Thriving-Grandmasterism
-since 2025.
+since 2025.     
+
+License Update — April 11 2026
+This project is now under the Autonomicity Games Sovereign Mercy License (AG-SML). New code and future distributions are protected. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
 
 # Quaternion Sentinel Architecture (QSA)  
 **A 12-Layer Framework for Aligned, Scalable AGI**  
