@@ -20,8 +20,8 @@ resilient rebirth. QSA ensures tamper-proof operation through Quad+Check validat
 Simulations achieve ≥0.95 trueness scores with <500 ms latency and <15% overhead. This
 architecture mitigates key AGI risks—misalignment, sabotage, infighting, and value
 drift—while fostering emergent creativity. A Python reference implementation is provided,
-suitable for xAI ecosystems or LangChain/AutoGen integration. Open-source under CC BY
-4.0 (paper) and MIT (code).
+suitable for xAI ecosystems or LangChain/AutoGen integration. Licensed under AG-SML
+v1.2: see LICENSE (https://github.com/AlphaProMega/QSA-AGi/blob/main/LICENSE).
 Keywords: AGI alignment, cognitive architecture, quaternion process theory, multi-layer
 oversight, AI safety, semiotics
 arXiv: cs.AI/2512.xxxxx (preprint pending endorsement)
