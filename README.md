@@ -2,12 +2,13 @@ This is a Legacy repository, new updates are at
 https://github.com/Eternally-Thriving-Grandmasterism
 since 2025.     
 
-License Update — April 11 2026
-This project is now under the Autonomicity Games Sovereign Mercy License (AG-SML). New code and future distributions are protected. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.
 
 # Quaternion Sentinel Architecture (QSA)  
 **A 12-Layer Framework for Aligned, Scalable AGI**  
-[![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/25xx.xxxxx) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/25xx.xxxxx) [![License: AG-SML v1.2](https://img.shields.io/badge/License-AG--SML%20v1.2-blue.svg)](LICENSE)
 
 > Extends Carlos E. Perez’s **Quaternion Process Theory** (QPT) with **AlphaProMega v2.4.5** oversight protocols to create a deployable, tamper-proof AGI architecture.
 
